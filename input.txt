@@ -1,0 +1,9 @@
+underscore_var 321312.34123
+$$$$dolar_var 4234
+4324 4324 4.13221
+ilegal-var
+.32131
+32.2.32.32.32.32
+numb3r_v4r 441 95757 33.4 532.23 4324.1
+nao_aceita_float_tipo_python .33
+nao_aceita_float_tipo_python2 33.
